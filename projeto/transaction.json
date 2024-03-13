@@ -1,62 +1,1802 @@
 [
     {
-      "id": "8f85b5d8-944f-46c7-9029-0c03ae5a5e26",
-      "conta": 39,
+      "id": "2458d97f-f924-4046-984e-a68742adce77",
+      "conta": 475,
+      "uf": "",
+      "value": 8.31
+    },
+    {
+      "id": "30def559-6c61-4a14-b07c-508c47cbc75b",
+      "conta": 872,
+      "uf": "",
+      "value": 9.28
+    },
+    {
+      "id": "43dd6490-25ac-4c02-972e-28e65d21a1f1",
+      "conta": 418,
+      "uf": "",
+      "value": 8.27
+    },
+    {
+      "id": "582220fb-394d-462e-9f03-086c75d00418",
+      "conta": 396,
+      "uf": "",
+      "value": 8.78
+    },
+    {
+      "id": "ed25a0bd-5760-4627-a71a-3dde8f25e681",
+      "conta": 500,
+      "uf": "",
+      "value": 9.92
+    },
+    {
+      "id": "1c3b91e5-0529-4c15-8cd8-828b2a3c06c5",
+      "conta": 166,
+      "uf": "",
+      "value": 9.82
+    },
+    {
+      "id": "abc1c99e-ea50-4836-bc57-439b6a041e9a",
+      "conta": 106,
+      "uf": "",
+      "value": 7
+    },
+    {
+      "id": "3ca8c3cd-6faf-40e7-9abe-4f1aaeb4aee6",
+      "conta": 664,
+      "uf": "",
+      "value": 7.79
+    },
+    {
+      "id": "ac91a19c-75aa-4029-af3e-5a0a022ea382",
+      "conta": 450,
+      "uf": "",
+      "value": 5.36
+    },
+    {
+      "id": "cbbe7403-75b0-4140-a6b6-89626c909edf",
+      "conta": 415,
+      "uf": "",
+      "value": 6.5
+    },
+    {
+      "id": "54704f53-3210-4d80-902b-832219b58cc3",
+      "conta": 793,
+      "uf": "",
+      "value": 7
+    },
+    {
+      "id": "9989fa8f-0ab0-45b4-968d-468be1c5a2f3",
+      "conta": 54,
+      "uf": "",
+      "value": 9.93
+    },
+    {
+      "id": "9bb33a89-ca67-4125-a221-c8c65557db71",
+      "conta": 292,
+      "uf": "",
+      "value": 5.23
+    },
+    {
+      "id": "741d7761-14ba-4193-b2d2-7148633f5242",
+      "conta": 782,
+      "uf": "",
+      "value": 5.04
+    },
+    {
+      "id": "8fd4af07-b2c9-4a7c-9c72-dc1589fc861f",
+      "conta": 4,
+      "uf": "",
+      "value": 9.62
+    },
+    {
+      "id": "53d60495-5387-405b-bf6c-852d619b57b7",
+      "conta": 383,
+      "uf": "",
+      "value": 8.72
+    },
+    {
+      "id": "f286381f-78bd-400e-af7f-a4b75110b18a",
+      "conta": 446,
+      "uf": "",
+      "value": 8.99
+    },
+    {
+      "id": "6af90ef6-b253-4a8a-9338-1488b8002ee7",
+      "conta": 367,
+      "uf": "",
+      "value": 9.95
+    },
+    {
+      "id": "e6cd6cdc-78e6-4bf5-a28d-191bf9d295bf",
+      "conta": 374,
+      "uf": "",
+      "value": 6.38
+    },
+    {
+      "id": "f2374a59-091f-4e7a-b4b5-0341abb24351",
+      "conta": 27,
+      "uf": "",
+      "value": 5.91
+    },
+    {
+      "id": "116f2e7c-9a39-45da-86a3-0eb1e150738e",
+      "conta": 198,
+      "uf": "",
+      "value": 5.92
+    },
+    {
+      "id": "22584137-f808-4ec1-95ca-a19e22aceec9",
+      "conta": 958,
+      "uf": "",
+      "value": 5.34
+    },
+    {
+      "id": "e6fd4db3-9be3-4f71-9ca2-9fe9dc3be548",
+      "conta": 473,
+      "uf": "",
+      "value": 8.29
+    },
+    {
+      "id": "c2c1656f-440c-4f47-8b79-9d4c94e04689",
+      "conta": 410,
+      "uf": "",
+      "value": 6.56
+    },
+    {
+      "id": "3d340d19-3ce9-469d-8bff-afe162858e5e",
+      "conta": 838,
+      "uf": "",
+      "value": 7.44
+    },
+    {
+      "id": "e0695b26-d4c5-4237-b675-ceadf190358e",
+      "conta": 598,
+      "uf": "",
+      "value": 5.8
+    },
+    {
+      "id": "b0dfb995-0e03-4e25-89cc-b539348343bb",
+      "conta": 758,
+      "uf": "",
+      "value": 5.3
+    },
+    {
+      "id": "b052144d-b55a-452f-af88-cf226e6b7d7e",
+      "conta": 235,
+      "uf": "",
+      "value": 5.76
+    },
+    {
+      "id": "97216d83-8cb7-4b94-86ee-36120da8498f",
+      "conta": 144,
+      "uf": "",
+      "value": 7.43
+    },
+    {
+      "id": "ce4ca348-7124-48d1-a9b7-3e9c8b20a2b0",
+      "conta": 614,
+      "uf": "",
+      "value": 8.93
+    },
+    {
+      "id": "2641fb83-6083-4714-a435-8d629a28ee11",
+      "conta": 199,
+      "uf": "",
+      "value": 9.96
+    },
+    {
+      "id": "ecec0a3a-ee82-4593-81de-bf60d1f94f7f",
+      "conta": 773,
+      "uf": "",
+      "value": 6.2
+    },
+    {
+      "id": "f85a9b39-746e-4181-aa78-fa3456284913",
+      "conta": 601,
+      "uf": "",
+      "value": 5.77
+    },
+    {
+      "id": "c2a094cd-866f-476f-809d-c9c9d5c16332",
+      "conta": 266,
+      "uf": "",
+      "value": 8.12
+    },
+    {
+      "id": "9a487af7-0ef8-4f8e-911b-6226c41f3df7",
+      "conta": 551,
+      "uf": "",
+      "value": 9.85
+    },
+    {
+      "id": "cb67bc8d-054b-4c2a-8cca-6d8c731e59db",
+      "conta": 969,
+      "uf": "",
+      "value": 7.26
+    },
+    {
+      "id": "2af15e36-482f-4e68-be17-e19ff68d84c5",
+      "conta": 347,
+      "uf": "",
+      "value": 7.09
+    },
+    {
+      "id": "f5f92925-68f7-421c-995b-3f192eadcaa7",
+      "conta": 51,
       "uf": "",
       "value": 7.89
     },
     {
-      "id": "b4e72fa6-eb05-438c-a0d6-b7a17f3a91e8",
-      "conta": 654,
+      "id": "ef0b218c-d683-4824-9b6d-24a41d3e3330",
+      "conta": 524,
       "uf": "",
-      "value": 6.02
+      "value": 8.6
     },
     {
-      "id": "8cee6d6a-2372-4e29-a110-477a7fc863d9",
-      "conta": 54,
+      "id": "5b4885a8-2f0b-4b0b-a4ab-7ae3288d4ce4",
+      "conta": 523,
       "uf": "",
-      "value": 6.91
+      "value": 6.06
     },
     {
-      "id": "21e148d7-39eb-4697-a3e0-6ce0de0c8ef4",
-      "conta": 439,
+      "id": "dbd0cf83-cd02-427c-aa11-5585743831bf",
+      "conta": 541,
       "uf": "",
-      "value": 8.68
+      "value": 6.95
     },
     {
-      "id": "d8d9a40b-7184-4228-985d-dc6c662faefd",
-      "conta": 730,
+      "id": "63c2d4d9-1ac8-4103-a914-f2aa9c4a8ffa",
+      "conta": 208,
+      "uf": "",
+      "value": 5.38
+    },
+    {
+      "id": "688279a0-b9ca-4500-9230-176e6a833c0b",
+      "conta": 127,
+      "uf": "",
+      "value": 6.6
+    },
+    {
+      "id": "da579961-17a4-4e7e-ad44-fad150c2e2f8",
+      "conta": 42,
+      "uf": "",
+      "value": 9.93
+    },
+    {
+      "id": "a9cbd5a7-7650-459e-b51a-f46d1d7f83b5",
+      "conta": 946,
+      "uf": "",
+      "value": 7.6
+    },
+    {
+      "id": "2cdc1fcf-d3b7-4828-9fa1-20798b6808c2",
+      "conta": 612,
+      "uf": "",
+      "value": 5.38
+    },
+    {
+      "id": "296728be-72e4-416f-bdb8-383c612966e1",
+      "conta": 916,
+      "uf": "",
+      "value": 6.48
+    },
+    {
+      "id": "c4689ad8-c16e-4bd4-90c1-9eaeb953881e",
+      "conta": 755,
+      "uf": "",
+      "value": 9.06
+    },
+    {
+      "id": "e51e2b4f-00d8-43ea-b264-8610eb48ba0f",
+      "conta": 824,
+      "uf": "",
+      "value": 9.17
+    },
+    {
+      "id": "b37a520c-1162-4696-b9c3-44786f4aa09e",
+      "conta": 671,
+      "uf": "",
+      "value": 5.03
+    },
+    {
+      "id": "75c6e839-bf08-4bd9-b864-5eca808a4c11",
+      "conta": 130,
+      "uf": "",
+      "value": 6.6
+    },
+    {
+      "id": "f16361aa-60cf-4dd9-820a-64827568bacc",
+      "conta": 543,
+      "uf": "",
+      "value": 7.05
+    },
+    {
+      "id": "b0f48f41-525c-409a-ace2-b929f7784366",
+      "conta": 23,
+      "uf": "",
+      "value": 5.85
+    },
+    {
+      "id": "f3d50bd5-ecd5-42c5-be23-7f8af2b8b52f",
+      "conta": 930,
+      "uf": "",
+      "value": 5.62
+    },
+    {
+      "id": "240c28e0-aa22-47ca-ad83-c1e79de73ef8",
+      "conta": 426,
+      "uf": "",
+      "value": 7.84
+    },
+    {
+      "id": "2c40ae5c-5381-49d0-a7cf-1f8668b2f345",
+      "conta": 465,
+      "uf": "",
+      "value": 7.01
+    },
+    {
+      "id": "ffae125d-7acb-47dd-9952-adb6b390e5c6",
+      "conta": 627,
+      "uf": "",
+      "value": 9.46
+    },
+    {
+      "id": "9bd144af-c3b1-4276-a4c6-5b3667bd22e4",
+      "conta": 902,
+      "uf": "",
+      "value": 9.64
+    },
+    {
+      "id": "b4add9f3-9e11-47ac-af7a-afc89360d8b5",
+      "conta": 623,
+      "uf": "",
+      "value": 7.02
+    },
+    {
+      "id": "37903eb2-6e1c-431e-ad1a-f42a39b704e9",
+      "conta": 68,
+      "uf": "",
+      "value": 6.3
+    },
+    {
+      "id": "5171dec8-7aef-42fe-8289-f80e48c968b8",
+      "conta": 461,
+      "uf": "",
+      "value": 5.68
+    },
+    {
+      "id": "42e8e3ba-51cc-4154-8348-474b9b8aa5c4",
+      "conta": 574,
       "uf": "",
       "value": 8.7
     },
     {
-      "id": "2c4f7a06-147f-48be-ac81-822fb0a1273d",
-      "conta": 999,
+      "id": "30e7265c-ad0e-434b-b122-0753918b1b9d",
+      "conta": 50,
       "uf": "",
-      "value": 5.73
+      "value": 5.36
     },
     {
-      "id": "f592cece-7e1b-4633-9798-bc9df4b13898",
-      "conta": 208,
+      "id": "44a94781-ab8f-4e34-9456-1439cc90f905",
+      "conta": 327,
+      "uf": "",
+      "value": 9.43
+    },
+    {
+      "id": "74ddca9f-edf2-4f12-9a3a-eccacc6aa494",
+      "conta": 544,
+      "uf": "",
+      "value": 7.01
+    },
+    {
+      "id": "43f2a94b-61ab-4292-8f16-741904ad908c",
+      "conta": 373,
+      "uf": "",
+      "value": 7.46
+    },
+    {
+      "id": "68a688dc-5e94-4967-8fdb-cd982e7aac5a",
+      "conta": 357,
+      "uf": "",
+      "value": 6.07
+    },
+    {
+      "id": "a7d0d5f7-9235-48ed-b3e5-2685ba22adc6",
+      "conta": 21,
+      "uf": "",
+      "value": 5.07
+    },
+    {
+      "id": "f75e0a68-1c1f-4750-af3a-ddce8b292e41",
+      "conta": 536,
+      "uf": "",
+      "value": 8.46
+    },
+    {
+      "id": "83516622-ea7c-4674-bee8-c9c06e44b738",
+      "conta": 867,
+      "uf": "",
+      "value": 6.05
+    },
+    {
+      "id": "84a64775-3528-4a07-8c45-662d50ea0ac4",
+      "conta": 753,
+      "uf": "",
+      "value": 8.36
+    },
+    {
+      "id": "885614de-f53c-4957-81cc-8e7f5f39b3f1",
+      "conta": 507,
+      "uf": "",
+      "value": 9.47
+    },
+    {
+      "id": "6f65ba3a-c929-4666-9148-5d9780422cb1",
+      "conta": 278,
+      "uf": "",
+      "value": 9.48
+    },
+    {
+      "id": "d70fa325-dc91-45af-a3d8-ecf97ac1ee3b",
+      "conta": 896,
+      "uf": "",
+      "value": 8.77
+    },
+    {
+      "id": "29427fe1-6838-4f36-9eea-3ebdea8e029b",
+      "conta": 664,
+      "uf": "",
+      "value": 6.12
+    },
+    {
+      "id": "d396c9fb-63a0-4b80-a3f8-86f489424037",
+      "conta": 568,
+      "uf": "",
+      "value": 8.45
+    },
+    {
+      "id": "969bdf8a-dd61-41ee-abc7-5b0bcea6d8e2",
+      "conta": 509,
+      "uf": "",
+      "value": 6.85
+    },
+    {
+      "id": "b244d84a-58ad-4062-abda-f1a2cea74493",
+      "conta": 537,
+      "uf": "",
+      "value": 5.68
+    },
+    {
+      "id": "1710e263-d7ac-4f20-8a44-9b38c8492c53",
+      "conta": 118,
+      "uf": "",
+      "value": 7.5
+    },
+    {
+      "id": "8cde37b4-448a-4606-9dc9-ad4d53bed378",
+      "conta": 111,
+      "uf": "",
+      "value": 6.8
+    },
+    {
+      "id": "524472c9-c341-44e8-b08a-44231a9cb15c",
+      "conta": 856,
+      "uf": "",
+      "value": 7.88
+    },
+    {
+      "id": "161d7153-b7d0-474c-96f5-c83a06256bab",
+      "conta": 234,
+      "uf": "",
+      "value": 6.43
+    },
+    {
+      "id": "f0a63cb0-ed73-45e5-832d-c1f6fbe2278b",
+      "conta": 994,
+      "uf": "",
+      "value": 7.8
+    },
+    {
+      "id": "a4e5883b-f2fb-4692-9557-b9d7f14b9733",
+      "conta": 372,
+      "uf": "",
+      "value": 9.43
+    },
+    {
+      "id": "2805caaa-28cb-42eb-b35e-655b68ef1bcb",
+      "conta": 675,
+      "uf": "",
+      "value": 5.59
+    },
+    {
+      "id": "a3a11342-1d10-41b1-a4e7-b9c6e9fb6813",
+      "conta": 375,
+      "uf": "",
+      "value": 7.56
+    },
+    {
+      "id": "5b123693-5550-4eb4-9dfc-e7be2d22c432",
+      "conta": 986,
+      "uf": "",
+      "value": 7.03
+    },
+    {
+      "id": "fc6eca04-9faa-446d-84f5-d703a0b0fbe4",
+      "conta": 36,
+      "uf": "",
+      "value": 8.71
+    },
+    {
+      "id": "f1926cb0-e174-46d4-9ad3-e0ea794dc7e6",
+      "conta": 470,
+      "uf": "",
+      "value": 9.85
+    },
+    {
+      "id": "0fad7329-b355-4e43-b1ca-6e6f17504036",
+      "conta": 549,
+      "uf": "",
+      "value": 7.3
+    },
+    {
+      "id": "06d4dec6-96d7-4931-b169-4461c38d28d5",
+      "conta": 431,
+      "uf": "",
+      "value": 8.37
+    },
+    {
+      "id": "9bc250e9-4ad6-49ed-b639-b17951e64bb2",
+      "conta": 500,
       "uf": "",
       "value": 5.7
     },
     {
-      "id": "fd148178-6842-4906-a131-ab157c35c970",
-      "conta": 207,
+      "id": "ef782013-a33e-4e17-944a-6abfd9751b46",
+      "conta": 332,
       "uf": "",
-      "value": 6.11
+      "value": 7.17
     },
     {
-      "id": "71132fd8-5280-419a-81c6-fba9289a32f0",
-      "conta": 743,
+      "id": "499aaa3b-e358-4dd9-910a-3128c41f181a",
+      "conta": 287,
+      "uf": "",
+      "value": 7.3
+    },
+    {
+      "id": "0fa35212-1c9f-474b-94f0-94607a1a8c31",
+      "conta": 301,
+      "uf": "",
+      "value": 9.32
+    },
+    {
+      "id": "4dcf772d-4164-49c3-a2c2-58b195c2c36a",
+      "conta": 295,
+      "uf": "",
+      "value": 6.29
+    },
+    {
+      "id": "d8973fb6-deb7-4718-a989-b5d6a52f1a96",
+      "conta": 472,
+      "uf": "",
+      "value": 5.84
+    },
+    {
+      "id": "6d37d6c8-d533-40cc-ad3e-a9d210af3cef",
+      "conta": 36,
+      "uf": "",
+      "value": 7.12
+    },
+    {
+      "id": "266e663d-b8f6-4c30-b54b-426ac4cb9fe6",
+      "conta": 879,
+      "uf": "",
+      "value": 5.98
+    },
+    {
+      "id": "244c4af3-7bbc-4932-a91f-80816c128a9c",
+      "conta": 895,
+      "uf": "",
+      "value": 7.62
+    },
+    {
+      "id": "23fc7630-c4ee-49a2-82a2-2bde472a58df",
+      "conta": 217,
+      "uf": "",
+      "value": 8.87
+    },
+    {
+      "id": "720fda76-c29f-4327-b9b8-03591af45a05",
+      "conta": 156,
+      "uf": "",
+      "value": 6.24
+    },
+    {
+      "id": "4fd323d0-67d1-45e4-8aa8-c9d8afae7133",
+      "conta": 274,
+      "uf": "",
+      "value": 5.94
+    },
+    {
+      "id": "cb9a08cb-9353-4247-a19c-31caa001be2f",
+      "conta": 498,
+      "uf": "",
+      "value": 6.57
+    },
+    {
+      "id": "57c88ad8-40de-4433-912a-d2ab81983a82",
+      "conta": 293,
+      "uf": "",
+      "value": 6.59
+    },
+    {
+      "id": "1bf2f65e-de00-4fd9-a5f3-8586b49d5cea",
+      "conta": 731,
+      "uf": "",
+      "value": 7.18
+    },
+    {
+      "id": "e8e5ffd9-f5c9-495e-be7c-80889ca78660",
+      "conta": 249,
+      "uf": "",
+      "value": 6.26
+    },
+    {
+      "id": "df052517-bc71-4c4f-b235-9f6ee3fb246e",
+      "conta": 496,
+      "uf": "",
+      "value": 5.72
+    },
+    {
+      "id": "31ea4dd8-dbff-4239-b7f6-99dc075543cc",
+      "conta": 448,
+      "uf": "",
+      "value": 7.65
+    },
+    {
+      "id": "3ebf3faf-2691-4d03-b4bd-81cb95efdae9",
+      "conta": 237,
+      "uf": "",
+      "value": 5.17
+    },
+    {
+      "id": "78936ebb-e909-4b66-9cbe-27f22baa9bf2",
+      "conta": 561,
+      "uf": "",
+      "value": 5.05
+    },
+    {
+      "id": "4149956d-f95b-4cef-aa6d-1a26f12f5d92",
+      "conta": 295,
+      "uf": "",
+      "value": 5.13
+    },
+    {
+      "id": "5dfea179-61cc-4737-8e33-a830cab51de5",
+      "conta": 222,
+      "uf": "",
+      "value": 6.15
+    },
+    {
+      "id": "d983a8ca-dbc1-497f-9365-8b2a25c10d03",
+      "conta": 51,
+      "uf": "",
+      "value": 5.62
+    },
+    {
+      "id": "d7b05e6e-b958-42b5-ba06-3aa8923445ec",
+      "conta": 791,
+      "uf": "",
+      "value": 8.5
+    },
+    {
+      "id": "5a126890-9252-41b8-bb0a-076a5f5024ca",
+      "conta": 93,
+      "uf": "",
+      "value": 5.16
+    },
+    {
+      "id": "78c7972a-91e4-4b10-b5e8-31f0c71e9895",
+      "conta": 536,
+      "uf": "",
+      "value": 7.96
+    },
+    {
+      "id": "0da9c0f6-4bee-4b94-92d5-67edf2676b29",
+      "conta": 445,
+      "uf": "",
+      "value": 8.31
+    },
+    {
+      "id": "54e11976-1170-4fc9-87e4-b884328eb062",
+      "conta": 363,
+      "uf": "",
+      "value": 7.55
+    },
+    {
+      "id": "8fe778a4-3433-466a-91fe-de6033203ac7",
+      "conta": 508,
+      "uf": "",
+      "value": 7.22
+    },
+    {
+      "id": "42fbc1f0-1318-46c3-835b-007f94c2188c",
+      "conta": 443,
+      "uf": "",
+      "value": 5.11
+    },
+    {
+      "id": "18d5fe1e-0dd8-4b68-8c2f-8330994c95f8",
+      "conta": 752,
+      "uf": "",
+      "value": 7.51
+    },
+    {
+      "id": "163742da-b334-41a2-843f-84a8dbbdb44a",
+      "conta": 786,
+      "uf": "",
+      "value": 9.84
+    },
+    {
+      "id": "ce3c6536-02f6-456b-ab98-10cbb80a0fbe",
+      "conta": 560,
+      "uf": "",
+      "value": 7.89
+    },
+    {
+      "id": "b32439ee-855d-44a8-96b1-eb0153cc9884",
+      "conta": 201,
+      "uf": "",
+      "value": 9.26
+    },
+    {
+      "id": "317d3716-491f-4f6c-b725-f7f4e2c2a4ec",
+      "conta": 823,
+      "uf": "",
+      "value": 7.96
+    },
+    {
+      "id": "602b54a1-cf91-4608-8fdd-06025abead1b",
+      "conta": 747,
+      "uf": "",
+      "value": 9.61
+    },
+    {
+      "id": "c66867ed-a871-4dde-b7e8-d3951b8146fb",
+      "conta": 771,
+      "uf": "",
+      "value": 7.38
+    },
+    {
+      "id": "b06a62a9-cf4e-45a8-a4ad-191836cb768d",
+      "conta": 950,
+      "uf": "",
+      "value": 5.06
+    },
+    {
+      "id": "c4ce4e6f-bf1b-4420-bf66-0fa45478c7bc",
+      "conta": 220,
+      "uf": "",
+      "value": 7.3
+    },
+    {
+      "id": "0df65c74-13d6-45d4-85d0-1147404fd55d",
+      "conta": 742,
+      "uf": "",
+      "value": 9.42
+    },
+    {
+      "id": "9e9ba1ef-0792-47b4-ac33-da0fc06dbe65",
+      "conta": 376,
+      "uf": "",
+      "value": 6.8
+    },
+    {
+      "id": "380ee52b-adfd-4df5-b674-b20c8975ffce",
+      "conta": 781,
+      "uf": "",
+      "value": 7.56
+    },
+    {
+      "id": "752671f9-8de5-47b3-a05b-10249be2ff5f",
+      "conta": 564,
+      "uf": "",
+      "value": 9.07
+    },
+    {
+      "id": "b4aac035-2113-4270-a713-420ae9498ccc",
+      "conta": 647,
+      "uf": "",
+      "value": 7.06
+    },
+    {
+      "id": "903c0161-010e-4693-9de2-442042797d5c",
+      "conta": 47,
+      "uf": "",
+      "value": 9.18
+    },
+    {
+      "id": "57232ddc-a923-4e73-aac3-f76f0f055904",
+      "conta": 385,
+      "uf": "",
+      "value": 6.54
+    },
+    {
+      "id": "cfe21ece-43c6-4cf7-a176-584c3babdae1",
+      "conta": 668,
+      "uf": "",
+      "value": 8.7
+    },
+    {
+      "id": "54316156-9cf7-4f72-ae5c-b8f672e62576",
+      "conta": 925,
+      "uf": "",
+      "value": 5.53
+    },
+    {
+      "id": "df87e441-addf-4829-8061-e8e57d31aaa3",
+      "conta": 467,
+      "uf": "",
+      "value": 5.54
+    },
+    {
+      "id": "51006e06-8ac8-4a83-b4ca-c6e230f7a21b",
+      "conta": 531,
+      "uf": "",
+      "value": 7.77
+    },
+    {
+      "id": "42712717-3145-4fa6-9b9b-326bef5cb1ad",
+      "conta": 145,
+      "uf": "",
+      "value": 5.23
+    },
+    {
+      "id": "454d728e-1fa6-4c04-a579-49624db06893",
+      "conta": 713,
+      "uf": "",
+      "value": 5.67
+    },
+    {
+      "id": "691e054f-d2bd-4109-87f3-e391f47e7d8c",
+      "conta": 1,
+      "uf": "",
+      "value": 9.64
+    },
+    {
+      "id": "f84adf8c-23f8-4cc4-9b4f-b1a3062bb66d",
+      "conta": 324,
+      "uf": "",
+      "value": 8.91
+    },
+    {
+      "id": "dbd90bc1-e301-41d9-bdf0-a04e9a8c493e",
+      "conta": 648,
+      "uf": "",
+      "value": 9.36
+    },
+    {
+      "id": "30b0ff8b-cd9d-48ce-b777-c8693379f00a",
+      "conta": 78,
+      "uf": "",
+      "value": 6.13
+    },
+    {
+      "id": "52b5d5af-bcf1-4bc6-8a9f-0bc853dfd554",
+      "conta": 890,
+      "uf": "",
+      "value": 5.37
+    },
+    {
+      "id": "7794ac07-adbb-450a-a35e-ecd39dedfbb9",
+      "conta": 999,
+      "uf": "",
+      "value": 9.14
+    },
+    {
+      "id": "df1a254f-ccfd-42c4-9455-88f141883730",
+      "conta": 952,
+      "uf": "",
+      "value": 8.45
+    },
+    {
+      "id": "e45a8f22-64c8-4b9c-bd42-7db4b98c8fcb",
+      "conta": 920,
+      "uf": "",
+      "value": 9.38
+    },
+    {
+      "id": "9a3a8a46-83c7-4a37-b47f-f4c1e3338dc0",
+      "conta": 57,
+      "uf": "",
+      "value": 5.52
+    },
+    {
+      "id": "5d03dd55-56bf-4126-a61a-e882a9c00636",
+      "conta": 626,
+      "uf": "",
+      "value": 5.91
+    },
+    {
+      "id": "5ca65e46-e5b5-40e7-95cc-9e3c30092de6",
+      "conta": 658,
+      "uf": "",
+      "value": 8.77
+    },
+    {
+      "id": "0cafd364-0c91-473b-b81b-e3f90a749bd7",
+      "conta": 720,
+      "uf": "",
+      "value": 6.65
+    },
+    {
+      "id": "c8a40879-91cb-4e41-96d2-367ecfd4ffc5",
+      "conta": 64,
+      "uf": "",
+      "value": 6.79
+    },
+    {
+      "id": "bfdc6c24-fbc7-418e-937b-0ec8d5dac4bb",
+      "conta": 252,
+      "uf": "",
+      "value": 7.81
+    },
+    {
+      "id": "d78eb2e4-d9c0-4e84-ab51-ed2b230b86ae",
+      "conta": 349,
+      "uf": "",
+      "value": 8.68
+    },
+    {
+      "id": "0ac4feea-d68c-42f0-9ac5-4779377c642d",
+      "conta": 331,
+      "uf": "",
+      "value": 6.08
+    },
+    {
+      "id": "306b3f73-969c-4292-96aa-b2eb0be8c4a7",
+      "conta": 122,
+      "uf": "",
+      "value": 9.93
+    },
+    {
+      "id": "07a8bb8d-e438-4c7b-8f9a-910d8f65a372",
+      "conta": 997,
+      "uf": "",
+      "value": 5.77
+    },
+    {
+      "id": "ee1d49b0-c1e4-4796-8c7a-b15d3dfc7d32",
+      "conta": 661,
+      "uf": "",
+      "value": 7.17
+    },
+    {
+      "id": "149e6daa-51e9-4cb9-9817-9a5746eb38c7",
+      "conta": 981,
+      "uf": "",
+      "value": 6.52
+    },
+    {
+      "id": "d5529f1d-89ed-4a7d-828a-56f36be8e26c",
+      "conta": 703,
+      "uf": "",
+      "value": 6.57
+    },
+    {
+      "id": "576a750a-eae2-4118-bacf-b9a93b95af99",
+      "conta": 347,
+      "uf": "",
+      "value": 8.4
+    },
+    {
+      "id": "2f4aa8ee-4b77-4382-9167-a91a34e4dca9",
+      "conta": 573,
+      "uf": "",
+      "value": 9.59
+    },
+    {
+      "id": "e91bab79-e1f2-44f6-ac89-adc65f97b468",
+      "conta": 633,
+      "uf": "",
+      "value": 9.65
+    },
+    {
+      "id": "3664e8f3-40f6-4d4c-9af3-b5bc28a0706c",
+      "conta": 540,
+      "uf": "",
+      "value": 7.4
+    },
+    {
+      "id": "5df22fc4-0d1e-4914-840b-c21329a3053e",
+      "conta": 975,
+      "uf": "",
+      "value": 9.26
+    },
+    {
+      "id": "1ce0e1f2-5bf8-4ce4-9825-25ed0430136f",
+      "conta": 609,
+      "uf": "",
+      "value": 5.83
+    },
+    {
+      "id": "d9931646-e957-4786-847f-d36a541c275c",
+      "conta": 148,
+      "uf": "",
+      "value": 6.64
+    },
+    {
+      "id": "ff81ef3c-8f38-4e92-8d1d-4b2fa0541a27",
+      "conta": 363,
+      "uf": "",
+      "value": 6.4
+    },
+    {
+      "id": "cfa95c43-6bd1-43c1-b3fb-914126410b80",
+      "conta": 566,
+      "uf": "",
+      "value": 9.03
+    },
+    {
+      "id": "7849a927-ca3f-4245-bfb7-9733bffdf364",
+      "conta": 196,
+      "uf": "",
+      "value": 5.83
+    },
+    {
+      "id": "d9cf77cf-3dd5-41cd-b652-3872173c27cc",
+      "conta": 369,
+      "uf": "",
+      "value": 8.1
+    },
+    {
+      "id": "1fce2346-0774-4729-bef3-176b31310260",
+      "conta": 318,
+      "uf": "",
+      "value": 7.13
+    },
+    {
+      "id": "85a7ff51-0f0b-4b0f-8a1e-d6abe949ef0f",
+      "conta": 701,
+      "uf": "",
+      "value": 6.12
+    },
+    {
+      "id": "6a5a1789-3575-4175-ac90-b8c7d276031c",
+      "conta": 294,
+      "uf": "",
+      "value": 8.46
+    },
+    {
+      "id": "30f1928e-4ffb-4bd8-8c5e-e037f183453c",
+      "conta": 791,
+      "uf": "",
+      "value": 5.85
+    },
+    {
+      "id": "9070e4dc-50e6-4cb9-af2e-1b75b9bc11eb",
+      "conta": 617,
+      "uf": "",
+      "value": 8.85
+    },
+    {
+      "id": "492034cf-07ee-4f4d-a2dd-830530e2c24c",
+      "conta": 755,
+      "uf": "",
+      "value": 6.68
+    },
+    {
+      "id": "12b27bda-8b0d-4fc3-be3e-77529b861eed",
+      "conta": 157,
+      "uf": "",
+      "value": 8.83
+    },
+    {
+      "id": "b4667ec7-ad57-4f9c-8a8b-fb3b95f234cb",
+      "conta": 209,
+      "uf": "",
+      "value": 8.42
+    },
+    {
+      "id": "1ea265e3-276e-4949-93b7-018970232841",
+      "conta": 50,
+      "uf": "",
+      "value": 7.07
+    },
+    {
+      "id": "9e1e1f5a-3a9c-46bc-bb29-6985e0d333c6",
+      "conta": 90,
+      "uf": "",
+      "value": 8.16
+    },
+    {
+      "id": "9c5da01e-404b-4d8d-a306-d90333e05154",
+      "conta": 556,
+      "uf": "",
+      "value": 9.6
+    },
+    {
+      "id": "2641b50e-b33b-433a-ad64-ddac6d5fd34e",
+      "conta": 108,
+      "uf": "",
+      "value": 8.61
+    },
+    {
+      "id": "cc6b5119-7fb9-4685-8d52-f1d570dd37eb",
+      "conta": 611,
+      "uf": "",
+      "value": 9.52
+    },
+    {
+      "id": "2ff89561-d999-460a-8fd3-5c0049b011e1",
+      "conta": 376,
+      "uf": "",
+      "value": 9.23
+    },
+    {
+      "id": "42ffe2b4-9681-4580-8b23-45d9847af842",
+      "conta": 70,
+      "uf": "",
+      "value": 9.39
+    },
+    {
+      "id": "434e1bbb-2182-4358-b6be-88c52d32fe46",
+      "conta": 326,
+      "uf": "",
+      "value": 7.26
+    },
+    {
+      "id": "f2106bb5-0e54-4c21-b9f7-4545bb5a91cd",
+      "conta": 63,
+      "uf": "",
+      "value": 8.03
+    },
+    {
+      "id": "ccecb0a9-597f-4116-886f-105deefa1921",
+      "conta": 225,
+      "uf": "",
+      "value": 9.62
+    },
+    {
+      "id": "a4ef2f98-5816-4fa0-b04c-60b8f4ed8637",
+      "conta": 859,
       "uf": "",
       "value": 7.04
     },
     {
-      "id": "ec0a56a1-fbe2-4592-8c13-70020c984051",
-      "conta": 818,
+      "id": "e0de68cf-ce4b-44c4-822a-9741c9704233",
+      "conta": 57,
+      "uf": "",
+      "value": 6.2
+    },
+    {
+      "id": "bb049ffd-a95c-426f-bc3b-63a6a6fb2266",
+      "conta": 440,
+      "uf": "",
+      "value": 9.05
+    },
+    {
+      "id": "6ebfafa5-f776-47aa-9a7e-1b5bb1b7e532",
+      "conta": 845,
+      "uf": "",
+      "value": 6.37
+    },
+    {
+      "id": "781f3750-56f9-46d3-8f60-8cda77ab367a",
+      "conta": 303,
+      "uf": "",
+      "value": 9.44
+    },
+    {
+      "id": "856a97cc-9d04-42be-9440-7fb197de819b",
+      "conta": 769,
+      "uf": "",
+      "value": 9.39
+    },
+    {
+      "id": "748b6a69-efdf-4ede-9143-a5ba40a7a795",
+      "conta": 420,
+      "uf": "",
+      "value": 8.34
+    },
+    {
+      "id": "fd55f20a-bc47-49be-9e10-bac0ed36c4c9",
+      "conta": 838,
+      "uf": "",
+      "value": 9.64
+    },
+    {
+      "id": "a1f6c582-5cd9-4b1b-856a-2eaefa64b22c",
+      "conta": 515,
+      "uf": "",
+      "value": 5.63
+    },
+    {
+      "id": "816f5c29-ca3a-4789-8392-b3c9a2c6fdd5",
+      "conta": 582,
+      "uf": "",
+      "value": 8.69
+    },
+    {
+      "id": "066a402e-0c98-418b-afaa-9ca3f478789b",
+      "conta": 998,
+      "uf": "",
+      "value": 9.25
+    },
+    {
+      "id": "f8d6cca8-8052-40e5-bf4a-cc680c2a2f11",
+      "conta": 523,
+      "uf": "",
+      "value": 7.58
+    },
+    {
+      "id": "58f359a4-172a-4f15-9ab1-fd3763f77075",
+      "conta": 449,
+      "uf": "",
+      "value": 6.85
+    },
+    {
+      "id": "f66692a0-57fa-48a7-a8c9-da7e6469a215",
+      "conta": 572,
+      "uf": "",
+      "value": 7.98
+    },
+    {
+      "id": "8967599c-548b-4ab3-b28e-d996e93b1a5d",
+      "conta": 763,
+      "uf": "",
+      "value": 7.08
+    },
+    {
+      "id": "878b046f-d3f2-44d3-bb60-0466a1a2fe2f",
+      "conta": 17,
+      "uf": "",
+      "value": 8.92
+    },
+    {
+      "id": "bb471212-e7c3-4793-903e-86654e5c9e38",
+      "conta": 772,
+      "uf": "",
+      "value": 5.95
+    },
+    {
+      "id": "fb8489a2-f5a8-44f1-907b-d757b0bd6f60",
+      "conta": 499,
+      "uf": "",
+      "value": 5.64
+    },
+    {
+      "id": "ad2f38ac-c4fb-48c9-9be0-67658c4425b2",
+      "conta": 451,
+      "uf": "",
+      "value": 7.16
+    },
+    {
+      "id": "2f410277-e6ca-4e64-b913-4ea31951c199",
+      "conta": 707,
+      "uf": "",
+      "value": 7.5
+    },
+    {
+      "id": "4c22c97b-096a-43a1-aac4-5de0f7d6e152",
+      "conta": 59,
+      "uf": "",
+      "value": 9.79
+    },
+    {
+      "id": "7979cfc3-2338-4e83-8a85-ab2e8951c607",
+      "conta": 356,
+      "uf": "",
+      "value": 6.01
+    },
+    {
+      "id": "52ae0ca3-37a2-4092-8aca-9d5bb64a823b",
+      "conta": 814,
+      "uf": "",
+      "value": 6.1
+    },
+    {
+      "id": "b9bf6822-8c2f-4708-aa79-f471decff0a8",
+      "conta": 530,
       "uf": "",
       "value": 6.66
+    },
+    {
+      "id": "9ea40fdf-9906-40b2-9f12-5a25b7b47221",
+      "conta": 974,
+      "uf": "",
+      "value": 7.95
+    },
+    {
+      "id": "e06e2b4d-6fe0-459f-8522-4ae9bdd3d901",
+      "conta": 490,
+      "uf": "",
+      "value": 8.16
+    },
+    {
+      "id": "5bc28bf3-b434-4330-917c-fc0550ef96ca",
+      "conta": 866,
+      "uf": "",
+      "value": 8.29
+    },
+    {
+      "id": "08d05a19-5ca8-4939-bc09-a1d405a1614d",
+      "conta": 525,
+      "uf": "",
+      "value": 5.37
+    },
+    {
+      "id": "8a9d7613-9c8c-4a62-b5be-003ff2683e49",
+      "conta": 814,
+      "uf": "",
+      "value": 9.9
+    },
+    {
+      "id": "9916576a-10ea-44f9-a75b-67a5687c51c5",
+      "conta": 712,
+      "uf": "",
+      "value": 8.74
+    },
+    {
+      "id": "d9c57bcc-ac00-4ae3-a075-673166db6151",
+      "conta": 299,
+      "uf": "",
+      "value": 7.24
+    },
+    {
+      "id": "cece3d22-acdd-46ed-95af-cbb02e0c12d2",
+      "conta": 584,
+      "uf": "",
+      "value": 6.18
+    },
+    {
+      "id": "c638f52d-1655-4e1f-827b-b5766f35030a",
+      "conta": 968,
+      "uf": "",
+      "value": 7.23
+    },
+    {
+      "id": "2909f763-d695-43a0-aa02-e474104b71d1",
+      "conta": 751,
+      "uf": "",
+      "value": 8.53
+    },
+    {
+      "id": "4e7e3344-b292-4639-8442-b99dde59ae3a",
+      "conta": 295,
+      "uf": "",
+      "value": 7.53
+    },
+    {
+      "id": "9a9e17c8-78d9-40fb-aa41-08b01a8cd757",
+      "conta": 19,
+      "uf": "",
+      "value": 8.94
+    },
+    {
+      "id": "56e2f3cd-8407-4bf3-bb1c-b18455caf6f1",
+      "conta": 992,
+      "uf": "",
+      "value": 6.1
+    },
+    {
+      "id": "b5abc9b0-5be2-4ef9-bff2-1a9e6c1cf37a",
+      "conta": 77,
+      "uf": "",
+      "value": 7.2
+    },
+    {
+      "id": "b31f9eb6-92c4-435d-a01b-4e75b0817997",
+      "conta": 491,
+      "uf": "",
+      "value": 9.89
+    },
+    {
+      "id": "0d611bcb-486c-4b13-8f43-9c58790a8f68",
+      "conta": 150,
+      "uf": "",
+      "value": 6.85
+    },
+    {
+      "id": "9a54fac1-3c4d-4b46-b8d2-448c714e1ffc",
+      "conta": 11,
+      "uf": "",
+      "value": 6.43
+    },
+    {
+      "id": "01b053e0-3fce-45ef-a03a-7c378a688190",
+      "conta": 127,
+      "uf": "",
+      "value": 9.7
+    },
+    {
+      "id": "4d8bc862-2ff8-4db8-a266-9a39ca7f205e",
+      "conta": 952,
+      "uf": "",
+      "value": 6.85
+    },
+    {
+      "id": "7923a9f3-e9ce-4573-91d0-b48538ed3e81",
+      "conta": 298,
+      "uf": "",
+      "value": 6.47
+    },
+    {
+      "id": "df6df2ca-ab64-45b1-88d6-ee661f985d3c",
+      "conta": 701,
+      "uf": "",
+      "value": 6.15
+    },
+    {
+      "id": "878ea4ad-1192-4dd2-b5a7-513565c940b8",
+      "conta": 91,
+      "uf": "",
+      "value": 7.12
+    },
+    {
+      "id": "3ed8d8bd-2e9e-4f29-aac7-a8347315ac81",
+      "conta": 778,
+      "uf": "",
+      "value": 8.21
+    },
+    {
+      "id": "33846777-a219-46d5-9c25-06c338954de9",
+      "conta": 629,
+      "uf": "",
+      "value": 6.26
+    },
+    {
+      "id": "da0f4ad8-1123-48b9-8dbc-9a53734d00f5",
+      "conta": 180,
+      "uf": "",
+      "value": 8.96
+    },
+    {
+      "id": "d8f737eb-3ae9-45a7-8bb0-a3a5c998e029",
+      "conta": 890,
+      "uf": "",
+      "value": 7.14
+    },
+    {
+      "id": "7b04efbb-252f-43e5-a2c3-8f95fe228555",
+      "conta": 522,
+      "uf": "",
+      "value": 8.9
+    },
+    {
+      "id": "f988f8a1-b999-43e0-ad0f-b9f60bc26e24",
+      "conta": 214,
+      "uf": "",
+      "value": 9.43
+    },
+    {
+      "id": "09f1439a-0660-44f1-8db5-ccda7a44aa1f",
+      "conta": 379,
+      "uf": "",
+      "value": 5.85
+    },
+    {
+      "id": "8caddd5a-0494-48df-a712-4b26b1cbd9d9",
+      "conta": 524,
+      "uf": "",
+      "value": 7.1
+    },
+    {
+      "id": "b5dcc68d-20a2-4121-8bf0-f4aa6c0da866",
+      "conta": 142,
+      "uf": "",
+      "value": 5.32
+    },
+    {
+      "id": "5c439cba-794d-40d1-8662-f45d5329a48d",
+      "conta": 671,
+      "uf": "",
+      "value": 9.73
+    },
+    {
+      "id": "c8e645cf-2869-4706-b84d-fdd6904c09a1",
+      "conta": 690,
+      "uf": "",
+      "value": 5.26
+    },
+    {
+      "id": "6c7c38e8-36d3-465d-8453-ec3e0f1d8fd2",
+      "conta": 412,
+      "uf": "",
+      "value": 8.35
+    },
+    {
+      "id": "fd83b593-56fc-4518-91a1-345e1a05645f",
+      "conta": 414,
+      "uf": "",
+      "value": 8.7
+    },
+    {
+      "id": "ed84e5b4-b322-44ee-aa33-57d9c6f1c5bf",
+      "conta": 740,
+      "uf": "",
+      "value": 6.28
+    },
+    {
+      "id": "b742f9ce-8236-4c30-8879-f23491257937",
+      "conta": 775,
+      "uf": "",
+      "value": 7.79
+    },
+    {
+      "id": "f101b794-287d-4a42-88ef-baf856a4ba97",
+      "conta": 50,
+      "uf": "",
+      "value": 6.14
+    },
+    {
+      "id": "7851a7bc-a3bd-4d37-ba0b-31574127b32a",
+      "conta": 708,
+      "uf": "",
+      "value": 5.84
+    },
+    {
+      "id": "86a25483-addd-4aa5-9606-4b413bc9f5e6",
+      "conta": 6,
+      "uf": "",
+      "value": 8.56
+    },
+    {
+      "id": "963f9661-aad4-4a93-8bac-65f0f8cc0823",
+      "conta": 567,
+      "uf": "",
+      "value": 6.37
+    },
+    {
+      "id": "5fef06fc-d86c-47b4-a2bf-c47afea3be63",
+      "conta": 735,
+      "uf": "",
+      "value": 6.31
+    },
+    {
+      "id": "8c4e2be1-1e21-41c6-b3a8-74bd4c539f73",
+      "conta": 361,
+      "uf": "",
+      "value": 5.34
+    },
+    {
+      "id": "f87c8aa9-abf6-4141-bc81-ad529984d211",
+      "conta": 960,
+      "uf": "",
+      "value": 6.54
+    },
+    {
+      "id": "9585e62d-1478-4302-8f50-c72f0d30795f",
+      "conta": 735,
+      "uf": "",
+      "value": 7.97
+    },
+    {
+      "id": "e86a51c9-a045-45a8-ae66-5084a3d5339a",
+      "conta": 802,
+      "uf": "",
+      "value": 6.46
+    },
+    {
+      "id": "16a1869b-20d2-4e9f-8641-6bdabf2b10c1",
+      "conta": 733,
+      "uf": "",
+      "value": 6.94
+    },
+    {
+      "id": "36b84fcf-b1a0-43d0-8334-c7e88af2e787",
+      "conta": 855,
+      "uf": "",
+      "value": 9.4
+    },
+    {
+      "id": "1978d2aa-50f6-405f-b209-d32124f16d3c",
+      "conta": 793,
+      "uf": "",
+      "value": 9.1
+    },
+    {
+      "id": "2daf9876-e8d0-4ef8-a6c2-ed3969f66cf6",
+      "conta": 36,
+      "uf": "",
+      "value": 5.86
+    },
+    {
+      "id": "cae401aa-6bb3-435c-82cd-2b04bcf12292",
+      "conta": 628,
+      "uf": "",
+      "value": 8.05
+    },
+    {
+      "id": "83dcfa9d-e202-498a-95e7-0cc83027cb4e",
+      "conta": 278,
+      "uf": "",
+      "value": 8.97
+    },
+    {
+      "id": "0efa20fe-af27-4b33-9766-15ac38c2871f",
+      "conta": 558,
+      "uf": "",
+      "value": 8.5
+    },
+    {
+      "id": "8f72c29b-1339-4149-9db6-8a06ba840527",
+      "conta": 636,
+      "uf": "",
+      "value": 6.81
+    },
+    {
+      "id": "f59e5b8a-27b8-48ad-a7b8-49523c047920",
+      "conta": 900,
+      "uf": "",
+      "value": 9.59
+    },
+    {
+      "id": "2e560694-54ec-4fda-b1e2-e23fc3ea7365",
+      "conta": 749,
+      "uf": "",
+      "value": 5.55
+    },
+    {
+      "id": "52998cb3-30ef-4532-a5c9-a41057c6d6ef",
+      "conta": 1,
+      "uf": "",
+      "value": 7.4
+    },
+    {
+      "id": "20e3c8ec-6e2e-4238-a479-18108272b183",
+      "conta": 833,
+      "uf": "",
+      "value": 9.9
+    },
+    {
+      "id": "eb6e7f50-3d0e-4fc6-a9ae-f1275dc2b1e5",
+      "conta": 809,
+      "uf": "",
+      "value": 9.45
+    },
+    {
+      "id": "39ece4b8-8871-4303-b69f-3125563b2c04",
+      "conta": 782,
+      "uf": "",
+      "value": 9.4
+    },
+    {
+      "id": "e9cf5ef9-de1f-4b05-af62-c8de543957b1",
+      "conta": 489,
+      "uf": "",
+      "value": 9.8
+    },
+    {
+      "id": "10303ce6-cfb7-4aad-ae4c-37973462d126",
+      "conta": 995,
+      "uf": "",
+      "value": 7.1
+    },
+    {
+      "id": "3567c376-1e8d-41ae-8bf4-daf318f89353",
+      "conta": 72,
+      "uf": "",
+      "value": 6.47
+    },
+    {
+      "id": "7eb8038c-5ec4-4521-b44d-42c4ae2af5cb",
+      "conta": 637,
+      "uf": "",
+      "value": 6.8
+    },
+    {
+      "id": "d0b748d0-d1f3-46d8-b345-ef8a20c80be0",
+      "conta": 508,
+      "uf": "",
+      "value": 10
+    },
+    {
+      "id": "56ee86a2-521f-4bd0-932c-b9408d7f45b7",
+      "conta": 172,
+      "uf": "",
+      "value": 7.88
+    },
+    {
+      "id": "16eae94f-2a5c-4441-8577-06ae227eafc9",
+      "conta": 839,
+      "uf": "",
+      "value": 9.94
+    },
+    {
+      "id": "e4fc0726-e1b9-4143-8cc5-6ee5e40749b7",
+      "conta": 182,
+      "uf": "",
+      "value": 7.51
+    },
+    {
+      "id": "ef2edc14-b39e-4dfa-86f4-3d409d56bb3b",
+      "conta": 489,
+      "uf": "",
+      "value": 8.64
+    },
+    {
+      "id": "9d67eac6-645c-416f-a20b-476fc04c0436",
+      "conta": 628,
+      "uf": "",
+      "value": 7.91
+    },
+    {
+      "id": "e91ee429-6051-4342-aad5-3ea224e85f82",
+      "conta": 338,
+      "uf": "",
+      "value": 5.24
+    },
+    {
+      "id": "451e5c95-08e7-45d0-98ce-03a98af94e8a",
+      "conta": 359,
+      "uf": "",
+      "value": 7.78
+    },
+    {
+      "id": "f13950bd-4620-402f-8870-a8123ebf2914",
+      "conta": 787,
+      "uf": "",
+      "value": 9.25
+    },
+    {
+      "id": "0202cf9a-ba70-4f53-a8b7-e7a99ed338ed",
+      "conta": 819,
+      "uf": "",
+      "value": 9.51
+    },
+    {
+      "id": "4f2518b5-154e-48b2-82eb-195fca033a74",
+      "conta": 856,
+      "uf": "",
+      "value": 6.88
+    },
+    {
+      "id": "dbf8ffc1-679f-4e6e-b3f8-61b36a94b252",
+      "conta": 16,
+      "uf": "",
+      "value": 5.63
+    },
+    {
+      "id": "5c2b5628-4798-4f52-8d5b-d24c0b348c83",
+      "conta": 663,
+      "uf": "",
+      "value": 7.75
+    },
+    {
+      "id": "4bfff5a9-9f99-40c0-9dcd-1e234436e533",
+      "conta": 877,
+      "uf": "",
+      "value": 7.59
+    },
+    {
+      "id": "feae2e32-cfa7-408e-8434-c316be6e4fda",
+      "conta": 67,
+      "uf": "",
+      "value": 6.64
+    },
+    {
+      "id": "595a4251-f02d-4ffd-8d70-e0eab3112108",
+      "conta": 550,
+      "uf": "",
+      "value": 7.54
+    },
+    {
+      "id": "b46682d7-02d0-41e3-a436-af8230031afe",
+      "conta": 784,
+      "uf": "",
+      "value": 5.11
+    },
+    {
+      "id": "38fb34f4-d61e-46dc-b58a-47a29d111ee4",
+      "conta": 371,
+      "uf": "",
+      "value": 7.02
+    },
+    {
+      "id": "f9fdf699-7c39-444f-b538-c33e5e852790",
+      "conta": 579,
+      "uf": "",
+      "value": 8.24
     }
   ]

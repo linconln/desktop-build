@@ -19,8 +19,7 @@ print(transactions)
 transaction_file.close()
 
 for transaction in transactions:
-#    transaction[data] = str(datetime.datetime.now())
-
+#    transaction["data"] = str(datetime.datetime.now())
     channel.basic_publish(exchange="amq.fanout",
                           routing_key="",
                           body=json.dumps(transaction),
