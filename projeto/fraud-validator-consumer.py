@@ -26,8 +26,8 @@ def chamado_quando_uma_transacao_eh_consumida(channel, method_frame, header_fram
         media = transaction["value"]
         redis_conn.rpush(chave, media)
     else:
-        desvio = (transaction["value"] - float(media_lida)) / float(media_lida)
-        if(desvio > 0.4):
+        desvio = transaction["value"] / float(media_lida)
+        if(desvio > 1.4):
             print("Fraude: ", transaction)
             fraude = 1
             redis_conn.rpush("report-"+str(chave), "Fraude: "+json.dumps(transaction))
